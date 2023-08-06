@@ -3,7 +3,15 @@
   "description": "Un router minimalistico para React.",
   "author": "Camilo Hernandez <camilohreina.dev@gmail.com>",
   "private": false,
-  "version": "0.0.1",
+  "keywords": [
+    "react",
+    "router",
+    "routing",
+    "enrutador",
+    "react-router",
+    "minify-router"
+  ],
+  "version": "0.0.3",
   "type": "module",
   "main": "lib/index.js",
   "module": "lib/index.js",
